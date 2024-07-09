@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yc54pfmccojdvv8i?svg=true)](https://ci.appveyor.com/project/Sashkasam/async-await-dz)
 ## `async/await`
 
 ### Легенда
